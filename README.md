@@ -1,2 +1,2 @@
 # test
-test repo
+test repofor get commnd demostration 
